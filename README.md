@@ -3,10 +3,11 @@
 This repository contains the risk assessment project focused on identifying, evaluating, and mitigating potential security risks in the information systems of a microbiology laboratory.
 
 ## Project Overview
-The primary goal of this project is to conduct a thorough risk analysis of the microbiology lab's information systems. Key objectives include:
+The primary goal of this project is to conduct a thorough risk analysis of the microbiology lab's information systems,ensuring data integrity, confidentiality, and availability. Key objectives include:
 - Identifying critical assets and their vulnerabilities
-- Assessing potential threats to these assets
-- Proposing effective countermeasures to enhance overall security
+- Assessing potential threats to these assets, considering both internal and external risks.
+- Proposing effective countermeasures to enhance overall security and compliance.
+- Ensuring adherence to cybersecurity best practices and regulatory requirements.
 
 ## Methodology
 The analysis follows the **ISO27k risk assessment framework**, incorporating:
